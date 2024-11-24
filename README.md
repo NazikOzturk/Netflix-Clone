@@ -1,6 +1,6 @@
 <h1> Netflix Clone </h1>
 
-Yerli, yabancı bir çok dizi ve filmi izleme imkanı sunar.
+Bu proje, HTML5 ve CSS3 kullanılarak oluşturulmuş bir Netflix klonudur. Proje, responsive (duyarlı) tasarım prensiplerine uygun olarak geliştirilmiştir, böylece farklı cihazlarda uyumlu bir şekilde çalışmaktadır. Kullanıcı arayüzü, Netflix'in modern ve minimalist tasarımını yansıtacak şekilde tasarlanmıştır. Proje kodlarına aşağıdaki bağlantıdan ulaşabilirsiniz.
 
 <h2> Ekran Görüntüsü </h2>
 
